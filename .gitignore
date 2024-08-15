@@ -1,6 +1,9 @@
 # Ambiente virtual
 .venv/
 
+# Environments
+.env
+
 # Arquivos temporários
 *.swp
 *.swo
