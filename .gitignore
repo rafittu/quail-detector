@@ -5,7 +5,8 @@
 .env
 
 # Yolo dataset config
-yolo/
+yolo/dataset/
+yolo/weights/
 
 # Arquivos temporários
 *.swp
