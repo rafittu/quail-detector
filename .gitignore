@@ -4,6 +4,9 @@
 # Environments
 .env
 
+# Yolo dataset config
+yolo/
+
 # Arquivos temporários
 *.swp
 *.swo
