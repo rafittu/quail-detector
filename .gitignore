@@ -1,6 +1,13 @@
 # Ambiente virtual
 .venv/
 
+# Environments
+.env
+
+# Yolo dataset config
+yolo/dataset/
+yolo/weights/
+
 # Arquivos temporários
 *.swp
 *.swo
